@@ -5,4 +5,4 @@ This project is an implementation of UML best practices to compose a class diagr
 ## Preview
 
 Below is the initial mapping of the class diagram with relationships and multiplicity established.
-![Preview](National Parks UML.drawio.png)
+![Preview](./Diagrams/National_Parks_UML.png)
