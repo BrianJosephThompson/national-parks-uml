@@ -8,7 +8,7 @@ Below is the a class diagram for the National Parks System. This diagram models 
 Additionally following the Notes on Diagram section there is a class table for additional color.
 ## National Parks Class Diagram
 
-![Class Diagram](./Diagrams/National_Parks_UML.png)
+![Class Diagram](./Diagrams/National_Parks_UML.jpg)
 
 ## Notes on Diagram
 
